@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Number Guesser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Number_Guesser_jar</output-path>
+    <root id="archive" name="Number Guesser.jar">
+      <element id="module-output" name="Number Guesser" />
+    </root>
+  </artifact>
+</component>
